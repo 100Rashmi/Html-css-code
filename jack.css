@@ -1,0 +1,128 @@
+body{
+	background-color:#eee;
+}
+h4
+{ 
+    text-align: center; 
+    background-color:#eee; 
+}
+
+
+#container {
+	padding: 10px 60px 10px 60px;
+    width:600px;
+	height:1190px;
+	background-color:white;
+	margin-left:80px;
+}	
+#blank{
+	width:600px;
+	height:40px;
+}
+#a{
+	position:relative;
+	width:100px;
+	height:100px;
+	background:rgba(195, 2, 2, 0.74);
+	float:left;
+}
+#b{
+	position:absolute;
+	top:10px;
+	left:20px;
+	width:70px;
+	height:70px;
+	background:white;
+}
+#name{
+	width:490px;
+	height:10px;
+	float:right;
+}
+.nym{
+	letter-spacing:3px;
+	font-family:Impact, Charcoal, sans-serif;
+	font-size:35px;
+	height:15px;
+}
+.dsg{
+	font-size:20px;
+}
+#Data{
+	width:300px;
+	float:right;
+}
+#About{
+	width:330px;
+	float:left;
+}
+#Edu{
+	width:260px;
+	float:right;
+}
+#Exp{
+	width:330px;
+	float:left;
+}
+#Skills{
+    width:230px;
+    float:right;	
+}
+.graph {
+    width: 100px;
+    height: 100px;
+    border:  #ff471a;
+    
+}
+.bar {
+    width: 8px;
+    margin: 1px;
+    display: inline-block;
+    position: relative;
+    background-color:#ff471a ;
+    vertical-align: baseline;
+}
+
+.spacing{
+	
+	text-indent: 20px;
+	color:rgba(195, 2, 2, 0.74)	;
+	font-weight:bold;
+	display:Inline-block;	
+	
+	
+}
+
+.space{
+	
+	margin-left:105px;	
+}
+.foo {
+  float: left;
+  width: 9px;
+  height: 9px;
+  margin: 2px;
+  border: 1px solid rgba(0, 0, 0, .2);
+  transform: rotate(45deg);
+}
+.symbol {
+  background:rgba(195, 2, 2, 0.74);
+}
+
+#footer{
+	width:600px;
+	height:5px;
+}
+#nam{
+width:271px;
+float:left;
+}
+#num{
+width:150;
+float:left	;
+}
+
+#site{
+	width:100;
+	float:right;
+}
